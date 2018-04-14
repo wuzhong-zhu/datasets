@@ -1,251 +1,251 @@
-﻿Topic;Keyword;Year;Importance value
-Network;node;1990;0.006356474
-Network;node;1991;0.005942034
-Network;node;1992;0.005542174
-Network;node;1993;0.005204019
-Network;node;1994;0.004952929
-Network;node;1995;0.004665425
-Network;node;1996;0.004440249
-Network;node;1997;0.00415527
-Network;node;1998;0.003887745
-Network;node;1999;0.003666379
-Network;service;1990;0.002120154
-Network;service;1991;0.002000173
-Network;service;1992;0.001893146
-Network;service;1993;0.001797764
-Network;service;1994;0.001710452
-Network;service;1995;0.001629909
-Network;service;1996;0.001557066
-Network;service;1997;0.001492044
-Network;service;1998;0.001436914
-Network;service;1999;0.001387402
-Network;protocol;1990;0.009476046
-Network;protocol;1991;0.009230051
-Network;protocol;1992;0.009034961
-Network;protocol;1993;0.008500188
-Network;protocol;1994;0.007878107
-Network;protocol;1995;0.007331871
-Network;protocol;1996;0.006570422
-Network;protocol;1997;0.005775688
-Network;protocol;1998;0.00513043
-Network;protocol;1999;0.004540259
-Network;network;1990;0.007561704
-Network;network;1991;0.00700381
-Network;network;1992;0.006496084
-Network;network;1993;0.006097196
-Network;network;1994;0.005717502
-Network;network;1995;0.00528086
-Network;network;1996;0.004877195
-Network;network;1997;0.004518803
-Network;network;1998;0.004122539
-Network;network;1999;0.003765761
-Network;algorithm;1990;0.005599709
-Network;algorithm;1991;0.005391667
-Network;algorithm;1992;0.005143565
-Network;algorithm;1993;0.004930552
-Network;algorithm;1994;0.004649326
-Network;algorithm;1995;0.004340601
-Network;algorithm;1996;0.004030568
-Network;algorithm;1997;0.003748752
-Network;algorithm;1998;0.003458688
-Network;algorithm;1999;0.003221923
-Software Engineering;software development;1990;0.017120758
-Software Engineering;software development;1991;0.01761066
-Software Engineering;software development;1992;0.01825743
-Software Engineering;software development;1993;0.019471396
-Software Engineering;software development;1994;0.020448363
-Software Engineering;software development;1995;0.018315527
-Software Engineering;software development;1996;0.016617411
-Software Engineering;software development;1997;0.015766477
-Software Engineering;software development;1998;0.015337598
-Software Engineering;software development;1999;0.014647591
-Software Engineering;metric;1990;0.004750096
-Software Engineering;metric;1991;0.004668733
-Software Engineering;metric;1992;0.004586982
-Software Engineering;metric;1993;0.00453216
-Software Engineering;metric;1994;0.00446845
-Software Engineering;metric;1995;0.004474559
-Software Engineering;metric;1996;0.004492767
-Software Engineering;metric;1997;0.004571116
-Software Engineering;metric;1998;0.004696998
-Software Engineering;metric;1999;0.004900683
-Software Engineering;product;1990;0.004918745
-Software Engineering;product;1991;0.004968714
-Software Engineering;product;1992;0.005080829
-Software Engineering;product;1993;0.005173165
-Software Engineering;product;1994;0.005301281
-Software Engineering;product;1995;0.005425515
-Software Engineering;product;1996;0.005291766
-Software Engineering;product;1997;0.005183436
-Software Engineering;product;1998;0.005097238
-Software Engineering;product;1999;0.004945169
-Software Engineering;testing;1990;0.003520199
-Software Engineering;testing;1991;0.003492166
-Software Engineering;testing;1992;0.00349772
-Software Engineering;testing;1993;0.003515509
-Software Engineering;testing;1994;0.003557149
-Software Engineering;testing;1995;0.00366148
-Software Engineering;testing;1996;0.003780979
-Software Engineering;testing;1997;0.003929891
-Software Engineering;testing;1998;0.004043612
-Software Engineering;testing;1999;0.004207059
-Software Engineering;software system;1990;0.008855053
-Software Engineering;software system;1991;0.009273665
-Software Engineering;software system;1992;0.008760119
-Software Engineering;software system;1993;0.00843999
-Software Engineering;software system;1994;0.008306615
-Software Engineering;software system;1995;0.008304138
-Software Engineering;software system;1996;0.008417669
-Software Engineering;software system;1997;0.00867115
-Software Engineering;software system;1998;0.009015035
-Software Engineering;software system;1999;0.009408389
-OOP;abstract data type;1990;0.008210332
-OOP;abstract data type;1991;0.007398147
-OOP;abstract data type;1992;0.006566191
-OOP;abstract data type;1993;0.005891354
-OOP;abstract data type;1994;0.005171726
-OOP;abstract data type;1995;0.004605312
-OOP;abstract data type;1996;0.004107087
-OOP;abstract data type;1997;0.003698699
-OOP;abstract data type;1998;0.003368978
-OOP;abstract data type;1999;0.003083179
-OOP;definition;1990;0.004327488
-OOP;definition;1991;0.004244914
-OOP;definition;1992;0.004094221
-OOP;definition;1993;0.003949744
-OOP;definition;1994;0.003764412
-OOP;definition;1995;0.003606999
-OOP;definition;1996;0.00351095
-OOP;definition;1997;0.003436688
-OOP;definition;1998;0.003351061
-OOP;definition;1999;0.003280248
-OOP;model;1990;0.003787381
-OOP;model;1991;0.003736113
-OOP;model;1992;0.003675134
-OOP;model;1993;0.003596734
-OOP;model;1994;0.003530618
-OOP;model;1995;0.003410363
-OOP;model;1996;0.003313729
-OOP;model;1997;0.003223461
-OOP;model;1998;0.003146843
-OOP;model;1999;0.003084367
-OOP;abstraction;1990;0.004613754
-OOP;abstraction;1991;0.004362151
-OOP;abstraction;1992;0.004162004
-OOP;abstraction;1993;0.003991017
-OOP;abstraction;1994;0.003842891
-OOP;abstraction;1995;0.003637806
-OOP;abstraction;1996;0.003482813
-OOP;abstraction;1997;0.003346806
-OOP;abstraction;1998;0.003229775
-OOP;abstraction;1999;0.003149299
-OOP;execution;1990;0.004078375
-OOP;execution;1991;0.004210655
-OOP;execution;1992;0.004303423
-OOP;execution;1993;0.004387163
-OOP;execution;1994;0.00447616
-OOP;execution;1995;0.004591602
-OOP;execution;1996;0.004763674
-OOP;execution;1997;0.00493013
-OOP;execution;1998;0.004820994
-OOP;execution;1999;0.004740562
-Operating Systems;implementation;1990;0.003064644
-Operating Systems;implementation;1991;0.003086246
-Operating Systems;implementation;1992;0.003109875
-Operating Systems;implementation;1993;0.003147128
-Operating Systems;implementation;1994;0.00317097
-Operating Systems;implementation;1995;0.003196113
-Operating Systems;implementation;1996;0.003218166
-Operating Systems;implementation;1997;0.003251406
-Operating Systems;implementation;1998;0.003283609
-Operating Systems;implementation;1999;0.003314589
-Operating Systems;real time system;1990;0.00940826
-Operating Systems;real time system;1991;0.009609643
-Operating Systems;real time system;1992;0.009909463
-Operating Systems;real time system;1993;0.01015276
-Operating Systems;real time system;1994;0.009900189
-Operating Systems;real time system;1995;0.009823829
-Operating Systems;real time system;1996;0.009086428
-Operating Systems;real time system;1997;0.008411918
-Operating Systems;real time system;1998;0.008113436
-Operating Systems;real time system;1999;0.007950196
-Operating Systems;system;1990;0.006582768
-Operating Systems;system;1991;0.006328955
-Operating Systems;system;1992;0.006116663
-Operating Systems;system;1993;0.005897292
-Operating Systems;system;1994;0.005705612
-Operating Systems;system;1995;0.00561336
-Operating Systems;system;1996;0.00556599
-Operating Systems;system;1997;0.005534151
-Operating Systems;system;1998;0.005571595
-Operating Systems;system;1999;0.005601755
-Operating Systems;static analysis;1990;0.002834782
-Operating Systems;static analysis;1991;0.002943397
-Operating Systems;static analysis;1992;0.003064458
-Operating Systems;static analysis;1993;0.003183378
-Operating Systems;static analysis;1994;0.003327376
-Operating Systems;static analysis;1995;0.003505745
-Operating Systems;static analysis;1996;0.003731656
-Operating Systems;static analysis;1997;0.003968109
-Operating Systems;static analysis;1998;0.004298288
-Operating Systems;static analysis;1999;0.00462865
-Programming Language;compile;1990;0.006928874
-Programming Language;compile;1991;0.006813974
-Programming Language;compile;1992;0.006671423
-Programming Language;compile;1993;0.00639617
-Programming Language;compile;1994;0.006154378
-Programming Language;compile;1995;0.00592345
-Programming Language;compile;1996;0.005690513
-Programming Language;compile;1997;0.005477884
-Programming Language;compile;1998;0.005254947
-Programming Language;compile;1999;0.005046952
-Operating Systems;formal verification;1990;0.003428887
-Operating Systems;formal verification;1991;0.003411361
-Operating Systems;formal verification;1992;0.003380518
-Operating Systems;formal verification;1993;0.003377534
-Operating Systems;formal verification;1994;0.003419073
-Operating Systems;formal verification;1995;0.003483643
-Operating Systems;formal verification;1996;0.003481001
-Operating Systems;formal verification;1997;0.00350638
-Operating Systems;formal verification;1998;0.003555036
-Operating Systems;formal verification;1999;0.003539228
-Programming Language;high level language;1990;0.003094604
-Programming Language;high level language;1991;0.00286115
-Programming Language;high level language;1992;0.00266772
-Programming Language;high level language;1993;0.002509363
-Programming Language;high level language;1994;0.002325813
-Programming Language;high level language;1995;0.002152485
-Programming Language;high level language;1996;0.002003066
-Programming Language;high level language;1997;0.001871171
-Programming Language;high level language;1998;0.00175806
-Programming Language;high level language;1999;0.001646086
-Programming Language;fortran;1990;0.003819231
-Programming Language;fortran;1991;0.003750445
-Programming Language;fortran;1992;0.003705259
-Programming Language;fortran;1993;0.003599352
-Programming Language;fortran;1994;0.003439102
-Programming Language;fortran;1995;0.003308385
-Programming Language;fortran;1996;0.003194293
-Programming Language;fortran;1997;0.003103346
-Programming Language;fortran;1998;0.002945815
-Programming Language;fortran;1999;0.002747119
-Programming Language;code generation;1990;0.005674956
-Programming Language;code generation;1991;0.00565447
-Programming Language;code generation;1992;0.005669407
-Programming Language;code generation;1993;0.005568294
-Programming Language;code generation;1994;0.005531552
-Programming Language;code generation;1995;0.005540373
-Programming Language;code generation;1996;0.005458756
-Programming Language;code generation;1997;0.0053834
-Programming Language;code generation;1998;0.005397433
-Programming Language;code generation;1999;0.00543021
-Programming Language;language;1990;0.008681637
-Programming Language;language;1991;0.008201223
-Programming Language;language;1992;0.007866596
-Programming Language;language;1993;0.007541409
-Programming Language;language;1994;0.007213203
-Programming Language;language;1995;0.006904314
-Programming Language;language;1996;0.006602542
-Programming Language;language;1997;0.006372442
-Programming Language;language;1998;0.006173161
-Programming Language;language;1999;0.005948494
+﻿Topic,Keyword,Year,Importance value
+Network,node,1990,0.006356474
+Network,node,1991,0.005942034
+Network,node,1992,0.005542174
+Network,node,1993,0.005204019
+Network,node,1994,0.004952929
+Network,node,1995,0.004665425
+Network,node,1996,0.004440249
+Network,node,1997,0.00415527
+Network,node,1998,0.003887745
+Network,node,1999,0.003666379
+Network,service,1990,0.002120154
+Network,service,1991,0.002000173
+Network,service,1992,0.001893146
+Network,service,1993,0.001797764
+Network,service,1994,0.001710452
+Network,service,1995,0.001629909
+Network,service,1996,0.001557066
+Network,service,1997,0.001492044
+Network,service,1998,0.001436914
+Network,service,1999,0.001387402
+Network,protocol,1990,0.009476046
+Network,protocol,1991,0.009230051
+Network,protocol,1992,0.009034961
+Network,protocol,1993,0.008500188
+Network,protocol,1994,0.007878107
+Network,protocol,1995,0.007331871
+Network,protocol,1996,0.006570422
+Network,protocol,1997,0.005775688
+Network,protocol,1998,0.00513043
+Network,protocol,1999,0.004540259
+Network,network,1990,0.007561704
+Network,network,1991,0.00700381
+Network,network,1992,0.006496084
+Network,network,1993,0.006097196
+Network,network,1994,0.005717502
+Network,network,1995,0.00528086
+Network,network,1996,0.004877195
+Network,network,1997,0.004518803
+Network,network,1998,0.004122539
+Network,network,1999,0.003765761
+Network,algorithm,1990,0.005599709
+Network,algorithm,1991,0.005391667
+Network,algorithm,1992,0.005143565
+Network,algorithm,1993,0.004930552
+Network,algorithm,1994,0.004649326
+Network,algorithm,1995,0.004340601
+Network,algorithm,1996,0.004030568
+Network,algorithm,1997,0.003748752
+Network,algorithm,1998,0.003458688
+Network,algorithm,1999,0.003221923
+Software Engineering,software development,1990,0.017120758
+Software Engineering,software development,1991,0.01761066
+Software Engineering,software development,1992,0.01825743
+Software Engineering,software development,1993,0.019471396
+Software Engineering,software development,1994,0.020448363
+Software Engineering,software development,1995,0.018315527
+Software Engineering,software development,1996,0.016617411
+Software Engineering,software development,1997,0.015766477
+Software Engineering,software development,1998,0.015337598
+Software Engineering,software development,1999,0.014647591
+Software Engineering,metric,1990,0.004750096
+Software Engineering,metric,1991,0.004668733
+Software Engineering,metric,1992,0.004586982
+Software Engineering,metric,1993,0.00453216
+Software Engineering,metric,1994,0.00446845
+Software Engineering,metric,1995,0.004474559
+Software Engineering,metric,1996,0.004492767
+Software Engineering,metric,1997,0.004571116
+Software Engineering,metric,1998,0.004696998
+Software Engineering,metric,1999,0.004900683
+Software Engineering,product,1990,0.004918745
+Software Engineering,product,1991,0.004968714
+Software Engineering,product,1992,0.005080829
+Software Engineering,product,1993,0.005173165
+Software Engineering,product,1994,0.005301281
+Software Engineering,product,1995,0.005425515
+Software Engineering,product,1996,0.005291766
+Software Engineering,product,1997,0.005183436
+Software Engineering,product,1998,0.005097238
+Software Engineering,product,1999,0.004945169
+Software Engineering,testing,1990,0.003520199
+Software Engineering,testing,1991,0.003492166
+Software Engineering,testing,1992,0.00349772
+Software Engineering,testing,1993,0.003515509
+Software Engineering,testing,1994,0.003557149
+Software Engineering,testing,1995,0.00366148
+Software Engineering,testing,1996,0.003780979
+Software Engineering,testing,1997,0.003929891
+Software Engineering,testing,1998,0.004043612
+Software Engineering,testing,1999,0.004207059
+Software Engineering,software system,1990,0.008855053
+Software Engineering,software system,1991,0.009273665
+Software Engineering,software system,1992,0.008760119
+Software Engineering,software system,1993,0.00843999
+Software Engineering,software system,1994,0.008306615
+Software Engineering,software system,1995,0.008304138
+Software Engineering,software system,1996,0.008417669
+Software Engineering,software system,1997,0.00867115
+Software Engineering,software system,1998,0.009015035
+Software Engineering,software system,1999,0.009408389
+OOP,abstract data type,1990,0.008210332
+OOP,abstract data type,1991,0.007398147
+OOP,abstract data type,1992,0.006566191
+OOP,abstract data type,1993,0.005891354
+OOP,abstract data type,1994,0.005171726
+OOP,abstract data type,1995,0.004605312
+OOP,abstract data type,1996,0.004107087
+OOP,abstract data type,1997,0.003698699
+OOP,abstract data type,1998,0.003368978
+OOP,abstract data type,1999,0.003083179
+OOP,definition,1990,0.004327488
+OOP,definition,1991,0.004244914
+OOP,definition,1992,0.004094221
+OOP,definition,1993,0.003949744
+OOP,definition,1994,0.003764412
+OOP,definition,1995,0.003606999
+OOP,definition,1996,0.00351095
+OOP,definition,1997,0.003436688
+OOP,definition,1998,0.003351061
+OOP,definition,1999,0.003280248
+OOP,model,1990,0.003787381
+OOP,model,1991,0.003736113
+OOP,model,1992,0.003675134
+OOP,model,1993,0.003596734
+OOP,model,1994,0.003530618
+OOP,model,1995,0.003410363
+OOP,model,1996,0.003313729
+OOP,model,1997,0.003223461
+OOP,model,1998,0.003146843
+OOP,model,1999,0.003084367
+OOP,abstraction,1990,0.004613754
+OOP,abstraction,1991,0.004362151
+OOP,abstraction,1992,0.004162004
+OOP,abstraction,1993,0.003991017
+OOP,abstraction,1994,0.003842891
+OOP,abstraction,1995,0.003637806
+OOP,abstraction,1996,0.003482813
+OOP,abstraction,1997,0.003346806
+OOP,abstraction,1998,0.003229775
+OOP,abstraction,1999,0.003149299
+OOP,execution,1990,0.004078375
+OOP,execution,1991,0.004210655
+OOP,execution,1992,0.004303423
+OOP,execution,1993,0.004387163
+OOP,execution,1994,0.00447616
+OOP,execution,1995,0.004591602
+OOP,execution,1996,0.004763674
+OOP,execution,1997,0.00493013
+OOP,execution,1998,0.004820994
+OOP,execution,1999,0.004740562
+Operating Systems,implementation,1990,0.003064644
+Operating Systems,implementation,1991,0.003086246
+Operating Systems,implementation,1992,0.003109875
+Operating Systems,implementation,1993,0.003147128
+Operating Systems,implementation,1994,0.00317097
+Operating Systems,implementation,1995,0.003196113
+Operating Systems,implementation,1996,0.003218166
+Operating Systems,implementation,1997,0.003251406
+Operating Systems,implementation,1998,0.003283609
+Operating Systems,implementation,1999,0.003314589
+Operating Systems,real time system,1990,0.00940826
+Operating Systems,real time system,1991,0.009609643
+Operating Systems,real time system,1992,0.009909463
+Operating Systems,real time system,1993,0.01015276
+Operating Systems,real time system,1994,0.009900189
+Operating Systems,real time system,1995,0.009823829
+Operating Systems,real time system,1996,0.009086428
+Operating Systems,real time system,1997,0.008411918
+Operating Systems,real time system,1998,0.008113436
+Operating Systems,real time system,1999,0.007950196
+Operating Systems,system,1990,0.006582768
+Operating Systems,system,1991,0.006328955
+Operating Systems,system,1992,0.006116663
+Operating Systems,system,1993,0.005897292
+Operating Systems,system,1994,0.005705612
+Operating Systems,system,1995,0.00561336
+Operating Systems,system,1996,0.00556599
+Operating Systems,system,1997,0.005534151
+Operating Systems,system,1998,0.005571595
+Operating Systems,system,1999,0.005601755
+Operating Systems,static analysis,1990,0.002834782
+Operating Systems,static analysis,1991,0.002943397
+Operating Systems,static analysis,1992,0.003064458
+Operating Systems,static analysis,1993,0.003183378
+Operating Systems,static analysis,1994,0.003327376
+Operating Systems,static analysis,1995,0.003505745
+Operating Systems,static analysis,1996,0.003731656
+Operating Systems,static analysis,1997,0.003968109
+Operating Systems,static analysis,1998,0.004298288
+Operating Systems,static analysis,1999,0.00462865
+Programming Language,compile,1990,0.006928874
+Programming Language,compile,1991,0.006813974
+Programming Language,compile,1992,0.006671423
+Programming Language,compile,1993,0.00639617
+Programming Language,compile,1994,0.006154378
+Programming Language,compile,1995,0.00592345
+Programming Language,compile,1996,0.005690513
+Programming Language,compile,1997,0.005477884
+Programming Language,compile,1998,0.005254947
+Programming Language,compile,1999,0.005046952
+Operating Systems,formal verification,1990,0.003428887
+Operating Systems,formal verification,1991,0.003411361
+Operating Systems,formal verification,1992,0.003380518
+Operating Systems,formal verification,1993,0.003377534
+Operating Systems,formal verification,1994,0.003419073
+Operating Systems,formal verification,1995,0.003483643
+Operating Systems,formal verification,1996,0.003481001
+Operating Systems,formal verification,1997,0.00350638
+Operating Systems,formal verification,1998,0.003555036
+Operating Systems,formal verification,1999,0.003539228
+Programming Language,high level language,1990,0.003094604
+Programming Language,high level language,1991,0.00286115
+Programming Language,high level language,1992,0.00266772
+Programming Language,high level language,1993,0.002509363
+Programming Language,high level language,1994,0.002325813
+Programming Language,high level language,1995,0.002152485
+Programming Language,high level language,1996,0.002003066
+Programming Language,high level language,1997,0.001871171
+Programming Language,high level language,1998,0.00175806
+Programming Language,high level language,1999,0.001646086
+Programming Language,fortran,1990,0.003819231
+Programming Language,fortran,1991,0.003750445
+Programming Language,fortran,1992,0.003705259
+Programming Language,fortran,1993,0.003599352
+Programming Language,fortran,1994,0.003439102
+Programming Language,fortran,1995,0.003308385
+Programming Language,fortran,1996,0.003194293
+Programming Language,fortran,1997,0.003103346
+Programming Language,fortran,1998,0.002945815
+Programming Language,fortran,1999,0.002747119
+Programming Language,code generation,1990,0.005674956
+Programming Language,code generation,1991,0.00565447
+Programming Language,code generation,1992,0.005669407
+Programming Language,code generation,1993,0.005568294
+Programming Language,code generation,1994,0.005531552
+Programming Language,code generation,1995,0.005540373
+Programming Language,code generation,1996,0.005458756
+Programming Language,code generation,1997,0.0053834
+Programming Language,code generation,1998,0.005397433
+Programming Language,code generation,1999,0.00543021
+Programming Language,language,1990,0.008681637
+Programming Language,language,1991,0.008201223
+Programming Language,language,1992,0.007866596
+Programming Language,language,1993,0.007541409
+Programming Language,language,1994,0.007213203
+Programming Language,language,1995,0.006904314
+Programming Language,language,1996,0.006602542
+Programming Language,language,1997,0.006372442
+Programming Language,language,1998,0.006173161
+Programming Language,language,1999,0.005948494
